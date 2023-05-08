@@ -1,0 +1,78 @@
+﻿[Scrobbler]
+0=스크로블링
+1=로그인: %s
+2=로그아웃한 후에는 일부 기능을 사용할 수 없습니다. 계속하시겠습니까?
+3=오류가 발생했습니다!
+4=손님
+5=로그인해야 합니다!
+6=스크로블러 대기열 상태: %s
+7=응용 프로그램에서 %s 프로필을 제거하시겠습니까?
+8=사용자 이름:
+9=암호:
+10=토큰:
+
+[Scrobbler.Auth]
+btnAllowAccess=접근 허용
+btnOk=확인
+Caption=권한 부여
+lbDetails=올바른 플러그인 작업을 위해 last.fm 프로필에서 권한 요청을 승인해야 합니다:\n\n1. 인터넷 브라우저에서 last.fm 프로필을 열려면 "접근 허용" 버튼을 클릭합니다.\n\n2. 인터넷 브라우저에서 열려있는 페이지에서 "예, 접근 허용" 버튼을 클릭합니다.\n\n3. last.fm 프로필에서 승인을 성공한 후이 창에서 "확인" 단추를 클릭합니다.
+
+[Scrobbler.Settings]
+btnAdd=추가...
+btnLogOff=로그아웃
+btnLog=로그 보기
+btnAuthorize=로그인
+miLogIn=로그인...
+miSignIn=가입...
+miMyProfile=내 프로필...
+miMyRecommendations=나의 추천...
+lbAuthorizationWarning=* 승인이 필요합니다
+lbProfileLink=%s의 내 프로필
+P1=설정
+P2=프로필
+L1=재생 가능한 파일
+L2=재생되면 파일을 스크로블:
+L3=다음 폴더의 트랙 무시:
+G2=권한 부여
+G1=기타
+W1=프로필을 하나 이상 추가해야 합니다. 그렇지 않으면 플러그인이 작동하지 않습니다
+W2=일부 기능에는 인증이 필요합니다 (설정 페이지 참조)
+cbScrobbling=* 스크로블링 허용
+cbTrayIcon=트레이 아이콘 표시
+cbTrackInfo=재생 시작시 재생 가능한 트랙에 대한 정보 표시
+cbTrayNotifyOnError=오류 알림
+cbAlbumArtSearch=%s 서비스에서 앨범 아트 다운로드
+cbAutoLove=* 트랙에 별 5개가 설정된 트랙은 좋아함
+cbAutoUnlove=* 트랙에 별 3개 미만의 표시가 설정된 트랙은 싫어함
+cbAllowScrobblingForURLs=온라인 트랙 스크로블링 허용
+miAddPath=추가...
+miDeletePath=삭제
+
+[Scrobbler.Settings.spIgnoredPaths]
+c[0]=경로
+c[1]=순환
+
+[Scrobbler.TrackInfo]
+Caption=재생 가능한 파일에 대한 정보
+L1=안녕하세요, %s!
+L4=경청자: %d
+L3=재생: %d
+L5=당신의 재생: %d
+L6=비슷한
+L7=비슷한 트랙
+L8=비슷한 아티스트
+pnlScrobblingProgress.h=스크로블러 진행
+pcpTrackInfo=트랙 정보
+pcpArtistInfo=아티스트 정보
+Status=정보 검색... |트랙에 대한 정보를 찾을 수 없습니다 |아무것도 재생되지 않습니다
+
+[Scrobbler.TrayIcon]
+miProfile=내 프로필
+miScrobbling=스크로블링 사용
+miSettings=옵션
+miShowTrackInfo=트랙에 대한 정보
+miRecommendations=나의 추천
+miErrorInfo=오류 세부 사항
+miLoveTrack=좋아요
+miUnloveTrack=싫어요
+

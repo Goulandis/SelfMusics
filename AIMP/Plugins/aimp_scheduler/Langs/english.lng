@@ -1,0 +1,118 @@
+﻿[Scheduler]
+Every=Every|Every|Every|Every
+Days=day|days|days|days
+Months=month|months|months|months
+Minutes=minute|minutes|minutes|minutes
+WeekDays=Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
+WeekDaysShort=Mo|Tu|We|Th|Fr|Sa|Su
+Weeks=week|weeks|weeks|weeks
+Years=year|years|years|years
+Tracks=track|tracks|tracks|tracks
+GroupByTime=At time
+GroupByEvent=At event
+Running=Running...
+ChangeModeConfirmation=Changing the mode will remove all created tasks. Proceed?
+
+[Scheduler.Actions]
+ChangeVolume=Change volume
+StartPlayback=Start playback
+CloseApp=Close application
+ResumePlayback=Resume playback
+PausePlayback=Pause playback
+Hibernate=Hibernate
+Shutdown=Shutdown
+Sleep=Sleep
+NextTrack=Jump to next track
+StartRadioCapture=Start radio capture
+StopRadioCapture=Stop radio capture
+
+[SchedulerSimpleTasksView]
+Caption=Scheduler
+cbsCloseApplication=Close application
+cbsPausePlayback=Pause playback
+cbsEventByTime=At time
+cbsEventOnPlaylistEnd=At the end of playlist
+cbsEventOnQueueEnd=At the end of queue
+cbsEventOnFileEnd=At the end of file
+CB1=Volume fading
+CB3=Fade out volume for:
+CB4=Fade in volume for:
+GB1=Volume
+cbAlarm=Alarm clock
+cbShutdown=Sleep timer
+L1=Time:
+L3=Files to play before the action:
+L4=Select object to play
+rbAlarmPlayFile=File
+rbAlarmPlayPlaylist=Playlist
+cbShutdownAtGivenTime=At given time
+cbShutdownOnElapsed=At elapsed time
+tcMainPage1=Sleep timer
+tcMainPage2=Alarm clock
+btnAdvancedView=Advanced mode
+btnApply=Apply
+btnClose=Close
+
+[SchedulerSimpleTasksView.cbsShutdownWindowsModes]
+i[0]=Shutdown
+i[1]=Hibernate
+i[2]=Sleep
+
+[SchedulerPlaybackSettingsDialog]
+Caption=Action: start playback
+pcpPlayFile=Play file
+pcpPlayPlaylist=Play the list
+cbReturnToPreviousPlaylist=Return to previous playlist
+lbReturnAfter=after play: 
+lbFileOffset=Start playback at
+btnOk=Ok
+btnCancel=Cancel
+cbStartFromBeginning=Play from the beginning
+
+[SchedulerChangeVolumeSettingsDialog]
+Caption=Action: change volume
+btnOk=Ok
+btnCancel=Cancel
+GB1=Target volume
+cbFading=Fade volume for:
+cbBeforeTheAction=Change volume before other actions
+lbBeforeTheActionWarning=Option is available for tasks that starts at time only
+
+[SchedulerTasksDialog]
+Caption=Scheduler
+Background=Tasks
+DeleteConfirmation=This operation will delete selected tasks! Proceed?
+acAdd=Add
+acEdit=Edit
+acDeleteSelected=Delete
+btnClose=Close
+btnSimpleView=Simple mode
+
+[SchedulerTaskEditorDialog]
+Caption=Scheduler
+Background=Task
+acDelete=Delete
+acEdit=Edit
+btnOK=Ok
+btnCancel=Cancel
+cbAllowWakeUp=Wake up PC if possible
+cbWaitForTrackToFinish=Wait for playing track to finish
+lbNow=Set current date and time
+lbIncrease=+%d minutes
+lbDecrease=-%d minutes
+lbTracksNumber=File to play before the actions:
+IncompatibleWarning=This action is incompatible with one of already created.
+gbEvent=Start
+gbName=Name
+gbRepeatThroughoutDay=Repeat throughout day
+gbRecurrence=Repeat
+gbActions=Actions
+miAdd=Add
+
+[SchedulerTaskEditorDialog.cbEventKind]
+i[0]=At date and time
+i[1]=At end of time interval
+i[2]=At end of the file
+i[3]=At end of the queue
+i[4]=At end of the playlist
+

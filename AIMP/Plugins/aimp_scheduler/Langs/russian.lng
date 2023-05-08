@@ -1,0 +1,118 @@
+﻿[Scheduler]
+Every=Каждый|Каждую|Каждые|Каждый
+Days=день|дня|дней|день
+Months=месяц|месяца|месяцев|месяц
+Minutes=минуту|минуты|минут|минуту
+WeekDays=Понедельник|Вторник|Среда|Четверг|Пятница|Суббота|Воскресенье
+WeekDaysShort=ПН|ВТ|СР|ЧТ|ПТ|СБ|ВС
+Weeks=неделю|недели|недель|неделю
+Years=год|года|лет|год
+Tracks=трек|трека|треков|трек
+GroupByTime=По времени
+GroupByEvent=По событию
+Running=Выполняется...
+ChangeModeConfirmation=При изменении режима работы удалятся все ваши задачи. Продолжить?
+
+[Scheduler.Actions]
+ChangeVolume=Изменить громкость
+StartPlayback=Начать воспроизведение
+CloseApp=Закрыть приложение
+ResumePlayback=Продолжить воспроизведение
+PausePlayback=Приостановить воспроизведение
+Hibernate=Перейти в режим гибернации
+Shutdown=Выключить компьютер
+Sleep=Перейти в режим сна
+NextTrack=Перейти на следующий трек
+StartRadioCapture=Начать запись радио
+StopRadioCapture=Остановить запись радио
+
+[SchedulerSimpleTasksView]
+Caption=Планировщик
+cbsCloseApplication=Выйти из программы
+cbsPausePlayback=Приостановить воспроизведение
+cbsEventByTime=По времени
+cbsEventOnPlaylistEnd=По окончании плейлиста
+cbsEventOnQueueEnd=По окончании очереди
+cbsEventOnFileEnd=По окончании файла
+CB1=Плавное изменение громкости
+CB3=Плавное уменьшение громкости в течение:
+CB4=Плавное увеличение громкости в течение:
+GB1=Громкость
+cbAlarm=Включить будильник
+cbShutdown=Включить таймер сна
+L1=Время:
+L3=Количество файлов, после проигрывания которых выполнится действие:
+L4=Укажите объект для воспроизведения
+rbAlarmPlayFile=Файл
+rbAlarmPlayPlaylist=Плейлист
+cbShutdownAtGivenTime=В заданное время
+cbShutdownOnElapsed=Через заданное время
+tcMainPage1=Таймер сна
+tcMainPage2=Будильник
+btnAdvancedView=Расширенный режим
+btnApply=Применить
+btnClose=Закрыть
+
+[SchedulerSimpleTasksView.cbsShutdownWindowsModes]
+i[0]=Выключить компьютер
+i[1]=Перейти в режим гибернации
+i[2]=Перейти в спящий режим
+
+[SchedulerPlaybackSettingsDialog]
+Caption=Действие: начать воспроизведение
+pcpPlayFile=Воспроизвести файл
+pcpPlayPlaylist=Воспроизвести плейлист
+cbReturnToPreviousPlaylist=Вернуться к воспроизведению прошлого плейлиста
+lbReturnAfter=После проигрывания:
+lbFileOffset=Начать воспроизведение с
+btnOk=ОК
+btnCancel=Отмена
+cbStartFromBeginning=Воспроизвести с начала
+
+[SchedulerChangeVolumeSettingsDialog]
+Caption=Действие: изменить громкость
+btnOk=ОК
+btnCancel=Отмена
+GB1=Целевая громкость
+cbFading=Плавное изменение громкости в течение:
+cbBeforeTheAction=Изменить громкость до выполнения остальных действий
+lbBeforeTheActionWarning=Только для задач, запускаемых по времени
+
+[SchedulerTasksDialog]
+Caption=Планировщик
+Background=Список задач
+DeleteConfirmation=Эта операция удалит выбранные задачи! Продолжить?
+acAdd=Добавить
+acEdit=Редактировать
+acDeleteSelected=Удалить
+btnClose=Закрыть
+btnSimpleView=Простой режим
+
+[SchedulerTaskEditorDialog]
+Caption=Планировщик
+Background=Задача
+acDelete=Удалить
+acEdit=Редактировать
+btnOK=Ок
+btnCancel=Отмена
+cbAllowWakeUp=Вывести ПК из спящего режима (если доступно)
+cbWaitForTrackToFinish=Дождаться завершения проигрываемого трека
+lbNow=Текущая дата и время
+lbIncrease=+%d минут
+lbDecrease=-%d минут
+lbTracksNumber=Количество треков, после проигрывания которых запустится выполнение задачи:
+IncompatibleWarning=Выбранное действие несовместимо с уже добавленными.
+gbActions=Действия
+gbEvent=Запуск
+gbName=Название
+gbRepeatThroughoutDay=Повтор в течение дня
+gbRecurrence=Повтор
+miAdd=Добавить
+
+[SchedulerTaskEditorDialog.cbEventKind]
+i[0]=По дате и времени
+i[1]=По окончании таймера
+i[2]=По окончании трека
+i[3]=По окончании очереди
+i[4]=По окончании плейлиста
+

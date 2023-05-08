@@ -1,0 +1,9 @@
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <VisualElements
+        BackgroundColor="#FF9B19"
+        ShowNameOnSquare150x150Logo="on"
+        ForegroundText="dark"
+        Square150x150Logo="Assets\aimp150x150Logo.png"
+        Square70x70Logo="Assets\Square70x70Logo.png"
+	/>
+</Application>

@@ -1,0 +1,78 @@
+﻿[Scrobbler]
+0=Scrobbling
+1=You are logged in as: %s
+2=Some functions will be unavailable after log out. Do you wish to continue?
+3=An error occurs!
+4=Guest
+5=You must log in!
+6=State of scrobbler queue: %s
+7=Are you sure to remove %s profile from the application?
+8=User name:
+9=Password:
+10=Token:
+
+[Scrobbler.Auth]
+btnAllowAccess=Allow Access
+btnOk=OK
+Caption=Authorization
+lbDetails=You must approve permissions request in your $name profile for correct plugin work:\n\n1. Click the "Allow Access" button to open your $name profile in the internet browser.\n\n2. Click the "Yes, Allow Access" button at the opened page in the internet browser.\n\n3. Click the "OK" button at this window after successful approving in your $name profile.
+
+[Scrobbler.Settings]
+btnAdd=Add...
+btnLogOff=Log Out
+btnLog=Show Log
+btnAuthorize=Log In
+miLogIn=Log in...
+miSignIn=Sign in...
+miMyProfile=My Profile...
+miMyRecommendations=My Recommendations...
+lbAuthorizationWarning=* Authorization is required
+lbProfileLink=My Profile at %s
+P1=Settings
+P2=Profiles
+L1=playing file
+L2=Scrobble file if played:
+L3=Ignore tracks from following folders:
+G2=Authorization
+G1=Miscellaneous
+W1=You must add at least one profile, otherwise plugin will not work
+W2=Some functions requires authorization (refer to the Settings page)
+cbScrobbling=* Allow scrobbling
+cbTrayIcon=Show tray icon
+cbTrackInfo=Show information about the playing track on start playback
+cbTrayNotifyOnError=Notify about errors
+cbAlbumArtSearch=Download album arts from %s service
+cbAutoLove=* Love track when 5 stars mark is set for the track
+cbAutoUnlove=* Unlove track when mark lower than 3 stars is set for the track
+cbAllowScrobblingForURLs=Allow scrobbling online tracks
+miAddPath=Add...
+miDeletePath=Delete
+
+[Scrobbler.Settings.spIgnoredPaths]
+c[0]=Path
+c[1]=Recursive
+
+[Scrobbler.TrackInfo]
+Caption=Information about the playing file
+L1=Hello, %s!
+L4=Listeners: %d
+L3=Played: %d
+L5=You played: %d
+L6=Similar
+L7=Similar Tracks
+L8=Similar Artists
+pnlScrobblingProgress.h=Scrobbler progress
+pcpTrackInfo=Track info
+pcpArtistInfo=Artist info
+Status=Searching the information...|Information about the track was not found|Nothing is playing
+
+[Scrobbler.TrayIcon]
+miProfile=My Profile
+miScrobbling=Enable Scrobbling
+miSettings=Options
+miShowTrackInfo=Information about the track
+miRecommendations=My Recommendations
+miErrorInfo=Error Details
+miLoveTrack=Love
+miUnloveTrack=Unlove
+
