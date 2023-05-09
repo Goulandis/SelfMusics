@@ -175,3 +175,95 @@ Here We Are Again（喜剧之王） - L
 只爱西经 - 洪楗华
 
 只要为你活一天(功夫) - 电影原声
+
+## 古风古韵
+
+春庭雪 - 邓寓君(等什么君)
+
+辞九门回忆 - 邓寓君(等什么君)
+
+大天蓬 - 清水er
+
+盗墓笔记·十年人间 - 泽国同学
+
+关山酒 - 邓寓君(等什么君)
+
+江海不渡你 - 诗人凉
+
+旧梦一场 - 阿悠悠
+
+莫问归期 - 蒋雪儿
+
+你若三冬 - 阿悠悠
+
+青丝 - 时光胶囊
+
+山鬼 - 锦零
+
+锁在轮回 - 任然
+
+踏雪 - 邓寓君(等什么君),FOX胡天渝
+
+叹郁孤 - 邓寓君(等什么君)
+
+探窗-等什么君
+
+忘川彼岸 - 零一九零贰
+
+下山 - 邓寓君(等什么君)
+
+游山恋 - 海伦
+
+虞兮叹 - 闻人听書_
+
+谪仙 - 伊格赛听,叶里
+
+## 滋滋电音
+
+Astronomia - Vicetone,Tony Igy
+
+Battle Without Honor Or Humanity(2016 Remastered) - 布袋寅泰
+
+Friendships - Pascal Letoublon
+
+Into the Battlefield - 大坪直樹
+
+Life - Tobu
+
+Lifeline - Zeraphym
+
+Lonely Dance - Vexento
+
+MELANCHOLY - White Cherry
+
+Monody (Radio Edit) - TheFatRat,Laura Brehm
+
+My Soul - July
+
+Nevada - Vicetone,Cozi Zuehlsdorff
+
+only my railgun - 花たん
+
+Oriente - INNDRIVE
+
+Phut Hon(原唱) - Noah Cyrus,Digital Farm Animals
+
+Sky (Radio Edit) - Steerner,Martell
+
+The Spectre - Alan Walker
+
+Tokyo Drift - TERIYAKI BOYZ
+
+Unity - TheFatRat
+
+Way Back - Vicetone,Cozi Zuehlsdorff
+
+Windfall - TheFatRat
+
+You Bring Me Joy (Chris Karpas Remix)-remix
+
+击中妹妹的心脏 - 小张
+
+## 天籁纯音
+
+Illusionary Daytime - Shirfine
