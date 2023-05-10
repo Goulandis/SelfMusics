@@ -120,6 +120,10 @@ Rosa Walton - I Really Want to Stay at Your House
 
 战双帕弥什 - 月
 
+---
+
+2023.5.9
+
 ## 经典永流传
 
 Here We Are Again（喜剧之王） - L
@@ -264,6 +268,140 @@ You Bring Me Joy (Chris Karpas Remix)-remix
 
 击中妹妹的心脏 - 小张
 
+---
+
+2023.5.10
+
 ## 天籁纯音
 
+Childhood Memory - 热田公纪
+
 Illusionary Daytime - Shirfine
+
+Intro_The Dawn 诡海乐队 - 诡海乐队
+
+Listen - Said The Sky
+
+Merry Christmas Mr. Lawrence - 坂本龍一
+
+Moon Flow - Nomak
+
+Ngẫu Hứng - Hoaprox
+
+only my railgun - 花たん
+
+Snowdreams - Bandari
+
+You - Approaching Nirvana
+
+冰菊物语(古筝版) - 周桃桃
+
+城南花已开 - 三亩地
+
+雏菊 - 周桃桃
+
+繁华的寂静 - 文武贝
+
+飞雪玉花-古筝(纯筝)-秦时明月 - 崔江卉
+
+風の住む街 - 磯村由紀子
+
+告白の夜 - Ayasa绚沙
+
+孤星独吟 - 周思贤
+
+故宫之神思 - S.E.N.S
+
+故乡的原风景 - 宗次郎
+
+和兰花在一起 - Yanni
+
+琥珀色の海へ - Sensitive Heart
+
+吉田潔 - TVエンディングテーマ (遥远的旅途)
+
+乱红 - 陈悦
+
+旅立ちの序曲 ~OVERTURE_FAIRY TAIL メインテーマ~ - 高梨康治
+
+莫失莫忘 - 麦振鸿
+
+琵琶语 - 林海
+
+青空 - Candy_Wind
+
+沙纤沵-国乐大典-幽泉
+
+时代を越える想い~Piano Concerto~(Moscow Recording Ver.) - 和田薫
+
+水龙吟 - 关大洲
+
+所念皆星河 钢琴演奏 - 兮沐
+
+她的微笑(Original Mix) - 阳山伟伟
+
+踏古 - 林海
+
+象王行 - 关大洲
+
+寻找幸福(伴奏) - 朱小五
+
+雨碎江南 - 玖月花儿与筝
+
+周桃桃 - 飘摇
+
+## 说唱律动
+
+Aloha Heja He - Achim Reichel
+
+Time(Live) - 小青龙,辉子
+
+爱如潮水(Live) - GAI周延
+
+沧海一声笑 - GAI周延,刘煜
+
+朝天门 - GAI周延
+
+华夏 - GAI周延
+
+将相和(Live) - 老胡Khufu,白静晨
+
+空城计 (Live) - GAI周延
+
+苦行僧(Live) - GAI周延
+
+垃圾话 - GAI周延
+
+兰花草 - GAI周延
+
+莲花(Live) - GAI周延
+
+烈火战马 - GAI周延
+
+蒙着眼睛走 (Live) - GAI周延
+
+哪吒 - 大痒痒,GAI周延
+
+山岚 - GAI周延
+
+天干物燥 (Live) - GAI周延
+
+投名状 (Live) - GAI周延,王齐铭WatchMe
+
+万里长城 - GAI周延
+
+威远故事 - GAI周延
+
+问风(Live) - GAI周延,吉克隽逸
+
+寻找幸福-KEEXI
+
+一百零八(Live) - GAI周延
+
+一念永恒 - GAI周延
+
+长河 - GAI周延,盛宇D-SHINE,Bridge
+
+这就是生活 (Live) - GAI周延
+
+重庆魂 (Live) - GAI周延
