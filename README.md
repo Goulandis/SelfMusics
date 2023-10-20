@@ -25,6 +25,18 @@ G.E.M.邓紫棋
 - 透明 - G.E.M.邓紫棋
 
 ---
+午夜阴乐
+ --- 
+---
+- Shiver - skel
+- The Grotto
+- The X-Files Theme (Main Title_ Materia Primoris) - The X-Files Theme
+- 囍 - 兰音Reine
+- 天堂岛之歌 - 周深
+- 误入迷失森林 - 冷静叁分钟
+- 鬼新娘 - 杰儿合唱团
+
+---
 双宝音乐会
  --- 
 ---
@@ -87,7 +99,9 @@ G.E.M.邓紫棋
 - 江海不渡你 - 诗人凉
 - 清明雨上 - 许嵩
 - 游山恋 - 海伦
+- 烟雨行舟 - 司南
 - 盗墓笔记·十年人间 - 泽国同学
+- 盗将行 - 司南,上河Lin
 - 莫问归期 - 蒋雪儿
 - 虞兮叹 - 闻人听書_
 - 谪仙 - 伊格赛听,叶里
@@ -101,6 +115,8 @@ G.E.M.邓紫棋
  --- 
 ---
 - Childhood Memory - 热田公纪
+- El Condor Pasa - Leo Rojas
+- His Theme (tieff's Remix) - tieff
 - Illusionary Daytime - Shirfine
 - Intro_The Dawn 诡海乐队 - 诡海乐队
 - Listen - Said The Sky
@@ -118,6 +134,7 @@ G.E.M.邓紫棋
 - 和兰花在一起 - Yanni
 - 城南花已开-三亩地.320
 - 她的微笑(Original Mix) - 阳山伟伟
+- 姫神-千年的祈祷
 - 孤星独吟 - 周思贤
 - 所念皆星河 钢琴演奏 - 兮沐
 - 故乡的原风景 - 宗次郎
@@ -226,7 +243,9 @@ G.E.M.邓紫棋
 - 傲七爷 - 枕边童话
 - 唐千云 - 海底
 - 大籽 - 白月光与朱砂痣 
+- 悬溺-葛东琪.320
 - 梦然 - 少年
+- 爱人错过 - 告五人
 - 王忻辰 - 清空
 - 艾辰 - 错位时空
 - 阿肆 - 热爱105°C的你
