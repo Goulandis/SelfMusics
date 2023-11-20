@@ -126,6 +126,7 @@ G.E.M.邓紫棋
 - only my railgun - 花たん
 - Snowdreams - Bandari
 - You - Approaching Nirvana
+- ❀ - nevva
 - 乱红 - 陈悦
 - 冰菊物语(古筝版) - 周桃桃
 - 吉田潔 - TVエンディングテーマ (遥远的旅途)
@@ -245,6 +246,7 @@ G.E.M.邓紫棋
 - 大籽 - 白月光与朱砂痣 
 - 悬溺-葛东琪.320
 - 梦然 - 少年
+- 溯 (Reverse)-CORSAK胡梦周,马吟吟.320
 - 爱人错过 - 告五人
 - 王忻辰 - 清空
 - 艾辰 - 错位时空
