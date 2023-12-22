@@ -25,6 +25,7 @@ Sleep=Sleep
 NextTrack=Jump to next track
 StartRadioCapture=Start radio capture
 StopRadioCapture=Stop radio capture
+StopPlayback=Stop playback
 
 [SchedulerSimpleTasksView]
 Caption=Scheduler

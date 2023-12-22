@@ -25,6 +25,7 @@ Sleep=절전 모드
 NextTrack=다음 트랙으로 이동
 StartRadioCapture=라디오 녹음 시작
 StopRadioCapture=라디오 녹음 중지
+StopPlayback=재생 중지
 
 [SchedulerSimpleTasksView]
 Caption=예약

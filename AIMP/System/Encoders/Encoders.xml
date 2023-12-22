@@ -308,6 +308,29 @@
 			<preset Name="Quality: 10 (~350 kbps)"  cmdparams="--silent --xlevel --quality 10 - %output%" />
 		</presets>
 	</encoder>
+	<encoder Name="OGG aoTuV" App="oggenc2.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="8000;11025;12000;16000;22050;24000;32000;44100;48000" SampleFormats="8;16;24;32" Channels="1;2;4;6" />
+			</inputformats>
+			<property name="Ext" value=".ogg" />
+		</description>
+		<presets>		
+			<preset Name="Quality:-2 (~32 kbps)"    cmdparams="-s %r -Q -q-2 --ignorelength - -o %output%" />
+			<preset Name="Quality:-1 (~48 kbps)"    cmdparams="-s %r -Q -q-1 --ignorelength - -o %output%" />
+			<preset Name="Quality: 0 (~64 kbps)"    cmdparams="-s %r -Q -q0 --ignorelength - -o %output%" />
+			<preset Name="Quality: 1 (~80 kbps)"    cmdparams="-s %r -Q -q1 --ignorelength - -o %output%" />
+			<preset Name="Quality: 2 (~96 kbps)"    cmdparams="-s %r -Q -q2 --ignorelength - -o %output%" />
+			<preset Name="Quality: 3 (~112 kbps)"   cmdparams="-s %r -Q -q3 --ignorelength - -o %output%" default="1" />
+			<preset Name="Quality: 4 (~128 kbps)"   cmdparams="-s %r -Q -q4 --ignorelength - -o %output%" />
+			<preset Name="Quality: 5 (~160 kbps)"   cmdparams="-s %r -Q -q5 --ignorelength - -o %output%" />
+			<preset Name="Quality: 6 (~192 kbps)"   cmdparams="-s %r -Q -q6 --ignorelength - -o %output%" />
+			<preset Name="Quality: 7 (~224 kbps)"   cmdparams="-s %r -Q -q7 --ignorelength - -o %output%" />
+			<preset Name="Quality: 8 (~256 kbps)"   cmdparams="-s %r -Q -q8 --ignorelength - -o %output%" />
+			<preset Name="Quality: 9 (~320 kbps)"   cmdparams="-s %r -Q -q9 --ignorelength - -o %output%" />
+			<preset Name="Quality:10 (~500 kbps)"   cmdparams="-s %r -Q -q10 --ignorelength - -o %output%" />	
+		</presets>
+	</encoder>
 	<encoder Name="Opus" App="opusenc.exe">
 		<description>
 			<inputformats type="autogen">

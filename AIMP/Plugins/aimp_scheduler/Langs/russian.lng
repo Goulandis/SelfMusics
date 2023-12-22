@@ -25,6 +25,7 @@ Sleep=Перейти в режим сна
 NextTrack=Перейти на следующий трек
 StartRadioCapture=Начать запись радио
 StopRadioCapture=Остановить запись радио
+StopPlayback=Остановить воспроизведение
 
 [SchedulerSimpleTasksView]
 Caption=Планировщик
@@ -93,7 +94,7 @@ Caption=Планировщик
 Background=Задача
 acDelete=Удалить
 acEdit=Редактировать
-btnOK=Ок
+btnOK=ОК
 btnCancel=Отмена
 cbAllowWakeUp=Вывести ПК из спящего режима (если доступно)
 cbWaitForTrackToFinish=Дождаться завершения проигрываемого трека
