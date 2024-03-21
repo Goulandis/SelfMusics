@@ -203,6 +203,7 @@ G.E.M.邓紫棋
 - 赛利亚之歌 - Lu&nbs
 - 運命のルーレット廻して (转动命运之轮) - ZARD
 - 銀の龍の背に乗って - 中島みゆき
+- 铃芽户缔 - 森島メロン
 - 青春之火 - 潘松和
 - 青鸟（ブルーバード） - Dulcim_嘟奇玛
 - 风一样的勇士 - 韩文
@@ -240,9 +241,13 @@ G.E.M.邓紫棋
 ---
 - Czarina - I Miss You
 - Rosa Walton - I Really Want to Stay at Your House
+- 一剪梅(DJ辉总版) - 王心雅
 - 七叔 - 燕无歇
+- 云与海 - 阿YueYue
 - 云朵 - 我的楼兰
 - 傲七爷 - 枕边童话
+- 凄美地 - 郭顶
+- 卜卦 - 崔子格
 - 唐千云 - 海底
 - 大籽 - 白月光与朱砂痣 
 - 悬溺-葛东琪.320
@@ -374,6 +379,7 @@ G.E.M.邓紫棋
 - 有何不可 - 许嵩
 - 有多少爱可以重来 - 迪克牛仔
 - 有没有人告诉你 - 陈楚生
+- 有没有人告诉你-陈楚生
 - 朋友 - 周华健
 - 杀死那个石家庄人 - 万能青年旅店
 - 梦千年之恋 - 金莎
@@ -511,6 +517,20 @@ G.E.M.邓紫棋
 - 雨蝶(Live) - G.E.M.邓紫棋,张靓颖
 - 青城山下白素贞 - 鞠婧祎
 - 黄英华 - 我不入地狱
+
+---
+英乐外曲
+ --- 
+---
+- Believer (Kaskade Remix) - Imagine Dragons,Kaskade
+- Bones - Imagine Dragons
+- Despacito (Remix) - Luis Fonsi,Daddy Yankee,Justin Bieber
+- Faded (Young Bombs Remix) - Alan Walker,YOUNG BOMBS
+- Natural - Imagine Dragons
+- Promise - sapientdrea
+- Señorita-Shawn+Mendes,Camila+Cabello
+- Sofia - Álvaro Soler
+- это ли счастье
 
 ---
 说唱律动
