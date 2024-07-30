@@ -1,0 +1,10 @@
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <VisualElements
+		DisplayName="AIMP Advanced Tag Editor"
+        BackgroundColor="#FF9B19"
+        ShowNameOnSquare150x150Logo="on"
+        ForegroundText="dark"
+        Square150x150Logo="Assets\ate150x150Logo.png"
+        Square70x70Logo="Assets\ate70x70Logo.png"
+	/>
+</Application>
